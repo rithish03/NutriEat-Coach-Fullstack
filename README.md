@@ -379,7 +379,21 @@ https://github.com/rithish03/NutriEat-Coach-Fullstack
 🖼️ **Screenshots**
 ===================
 
-![Login](assets/Login.png) ![Register](assets/Register.png) ![Chat](assets/Chat.png) ![GetMyRecipe](assets/GetMyRecipe.png)
+**Login:**
+
+![Login](assets/Login.png) 
+
+**Register:**
+
+![Register](assets/Register.png) 
+
+**Chat:**
+
+![Chat](assets/Chat.png) 
+
+**Get My Recipe:**
+
+![GetMyRecipe](assets/GetMyRecipe.png)
 
 
 📞 **Contact**
