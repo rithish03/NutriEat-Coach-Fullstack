@@ -1,0 +1,15 @@
+backend/src/main/resources/application.properties
+backend/src/main/resources/application.yml
+backend/src/main/resources/application.yaml
+
+frontend/.env
+frontend/.env.local
+frontend/.env.production.local
+frontend/.env.development.local
+
+node_modules/
+target/
+build/
+dist/
+.idea/
+*.log
