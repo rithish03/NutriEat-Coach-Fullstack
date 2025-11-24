@@ -436,4 +436,3 @@ This project is intended solely for educational and portfolio purposes.Unauthori
 NutriEat Coach was developed as a full-stack project exploring AI integration, backend–frontend architecture, and real-world deployment. More improvements will be added in the future.
 
 🌱 **Remember — eating healthy is not just a choice, it’s a lifestyle!** 💚
----------------------------------------------------------------------------
